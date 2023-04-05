@@ -90,6 +90,7 @@ const init = () => {
     .then((result) => {
       writeFileAsync("./dist/logo.svg", result);
       console.log("Generated logo.svg");
+      console.log("logo.svg saved to dist folder");
     })
     .catch((err) => console.error(err));
 };

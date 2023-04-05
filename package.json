@@ -2,6 +2,9 @@
   "devDependencies": {
     "jest": "^29.5.0"
   },
+  "scripts": {
+    "test": "jest"
+  },
   "dependencies": {
     "inquirer": "^8.2.4",
     "validate-color": "^2.2.4"

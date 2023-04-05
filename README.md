@@ -18,6 +18,11 @@ This is a simple SVG generator that allows you to create a SVG file with a circl
 - [Questions](#questions)
 - [Sources](#sources)
 
+## Video
+
+- [Video](https://drive.google.com/file/d/1QSYm6qeJrp6cttcMxNk2YiXcmNXdGcvX/view)  
+  Video of the application in use.
+
 ## Installation
 
 clone the project, while in the project folder run 'npm install'. Then run 'node index.js' to run the project.

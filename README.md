@@ -20,7 +20,7 @@ This is a simple SVG generator that allows you to create a SVG file with a circl
 
 ## Video
 
-- [Video](https://drive.google.com/file/d/1QSYm6qeJrp6cttcMxNk2YiXcmNXdGcvX/view)  
+- [Video](https://drive.google.com/file/d/1CHbgu0Sem0Im6kfCAY81CGl-xrQUKs4n/view)  
   Video of the application in use.
 
 ## Installation
